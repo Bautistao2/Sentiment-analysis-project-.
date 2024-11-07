@@ -1,1 +1,1 @@
-# seSentiment-analysis-project-.
+# Sentiment-analysis-project-.
